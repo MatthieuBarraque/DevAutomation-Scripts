@@ -36,6 +36,8 @@ Crée un fichier `README.md` dans la racine de ton dépôt avec le contenu suiva
      - Displays the public key for easy copying.
      - Optionally tests SSH connectivity with GitHub.
 
+```
+
 ## Usage
 
 ### 1. **automatic_deploy_project.sh**
