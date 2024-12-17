@@ -1,17 +1,3 @@
-Certainly! Voici une proposition pour ton dépôt GitHub, comprenant un **nom en anglais** avec une **description**, ainsi qu'un **fichier `README.md` simple** décrivant les trois scripts inclus.
-
----
-
-## 📁 **Repository Name**
-
-**`DevAutomation-Scripts`**
-
-## 📝 **Description**
-
-*A collection of shell scripts designed to automate essential development tasks, including project deployment, backup management, and SSH key generation.*
-
----
-
 ## 📄 **README.md**
 
 Crée un fichier `README.md` dans la racine de ton dépôt avec le contenu suivant :
