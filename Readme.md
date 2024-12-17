@@ -2,7 +2,6 @@
 
 Crée un fichier `README.md` dans la racine de ton dépôt avec le contenu suivant :
 
-```markdown
 # DevAutomation-Scripts
 
 ## Overview
@@ -35,8 +34,6 @@ Crée un fichier `README.md` dans la racine de ton dépôt avec le contenu suiva
      - Generates SSH keys and adds them to the SSH agent.
      - Displays the public key for easy copying.
      - Optionally tests SSH connectivity with GitHub.
-
-```
 
 ## Usage
 
